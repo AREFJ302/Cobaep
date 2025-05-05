@@ -1,0 +1,26 @@
+body {
+	background-color: #02a39b;
+	font-family: 'Times New Roman', serif;
+	text-align: center;
+	color: white;
+}
+
+
+.logo-principal {
+	width: 1300px;
+	border-radius: 10px;
+}
+
+
+p {
+	margin-top: 10px;
+	font-size: 20px;
+}
+
+
+img {
+	width: 600px;
+	margin: 5px;
+	border-radius: 5px;
+}
+

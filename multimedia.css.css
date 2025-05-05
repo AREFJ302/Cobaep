@@ -1,0 +1,42 @@
+
+
+.logo {
+  width: 100%;
+}
+ .plan {
+  width: 80%;
+}
+.plantel,
+.nombre {
+  width: 60%;
+}
+
+.informatica,
+.contabilidad,
+.turismo,
+.electricidad,
+.higiene,
+.dibujo {
+  width: 15%;
+  margin: 5px;
+}
+.violencia,
+.noche,
+.vida,
+.muertos,
+.comida {
+  width: 30%;
+  margin: 5px;
+}
+
+.ubica,
+.actividades {
+  width: 60%;
+  margin: 5px auto;
+}
+
+.ubicacion {
+  width: 90%;
+  margin: 5px;
+}
+

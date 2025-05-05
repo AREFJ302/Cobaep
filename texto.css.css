@@ -1,0 +1,22 @@
+{
+	margin: 0;
+	padding: 0; 
+	box-sizing: border-box;
+	text-decoration: none;
+	
+}
+
+body {
+	background-color:cadetblue;
+	font-family: 'Poppins', sans-serif;
+	
+}
+
+.container {
+	max-widht: 1200px;
+	margin: 0 auto;
+}
+
+
+
+
